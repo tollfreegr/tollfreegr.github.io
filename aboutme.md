@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About 
+subtitle: Τι είναι το TollFreeGR;
 ---
+Τα τελευταία χρόνια το κόστος των μετακινήσεων αυξάνεται με γεωμετρικό ρυθμό. Οι ανάγκη από την άλλη παραμένει στα ίδια υψηλα επίπεδα. Το site αυτό φιλοξενεί έναν οδηγό σε μορφή PDF που είναι εύκολο να τον έχουμε μαζί μας στο κινητό ή σε έντυπη μορφή στο αυτοκίνητο μας.
 
-My name is Inigo Montoya. I have the following qualities:
+Προς το παρόν ο οδηγός αυτός καλύπτει τη διαδρομ Αθήνα προς Λαμία αποφεύγοντας τα διόδια:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Αφιδνών
+- Θήβας 
+- Τραγάνας
+- Αγίας Τριάδος (Λαμία)
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Δε σταματούμε όμως εδώ. Με τη βοήθεια των social media σε συνδυασμό με το αθάνατο ελληνικό δαιμόνιο, ελπίζουμε ο οδηγός αυτός να εμπλουτιστεί με τις δικές σας πληροφορίες και να γίνει αναπόσπαστο κομμάτι κάθε έλληνα οδηγού.
