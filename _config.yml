@@ -23,7 +23,7 @@ description: Αποφυγή διοδίων στην Ελληνική επικρ�
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "About"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
@@ -43,8 +43,8 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
+  name: 
+  email: "tollfreegr@gmail.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
