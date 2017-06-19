@@ -22,7 +22,7 @@ description: Αποφυγή διοδίων στην Ελληνική επικρ�
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-# navbar-links:
+navbar-links:
   About Me: "aboutme.md"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -42,8 +42,8 @@ avatar: "/img/Nc-eu.svg.png"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
-  name: 
+author: 
+  name: Powered by Github & Jekyll
   email: "tollfreegr@gmail.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
@@ -86,7 +86,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "tollfreegr.tk"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "tollfreegr.tk"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
