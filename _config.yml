@@ -45,7 +45,7 @@ avatar: "/img/Nc-eu.svg.png"
 author: 
   name: Powered by Github & Jekyll
   email: "tollfreegr@gmail.com"
-  facebook: yourname  # eg. daattali
+  facebook: tollfreegr  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
@@ -62,7 +62,7 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: false
+  facebook: true
   email: true
   twitter: false
   google-plus: false
@@ -79,8 +79,8 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
+  twitter: true
+  facebook: true
   google: false
   linkedin: false
 
