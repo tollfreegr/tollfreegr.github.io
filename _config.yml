@@ -96,7 +96,7 @@ disqus: "tollfreegr-tk"
 google_analytics: "UA-101429361-1"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-KMLK4VG"
 
 # Facebook App ID
 # fb_app_id: ""
