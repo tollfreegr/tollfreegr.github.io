@@ -98,6 +98,9 @@ google_analytics: "UA-101429361-1"
 # Google Tag Manager ID
 gtm: "GTM-KMLK4VG"
 
+# Google AdSense ID
+google_ad_client: pub-7861887371401996
+
 # Facebook App ID
 # fb_app_id: ""
 
