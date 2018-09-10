@@ -6,22 +6,132 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>http://tollfreegr.tk/</loc>
-  <lastmod>2017-06-20T21:10:33+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://tollfreegr.com/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://tollfreegr.tk/aboutme/</loc>
-  <lastmod>2017-06-20T21:10:33+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://tollfreegr.com/2018-09-07-ekleise-to-90/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://tollfreegr.tk/2017-06-19-new-beginning/</loc>
-  <lastmod>2017-06-20T21:10:33+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <loc>https://tollfreegr.com/2018-08-28-telos-mnimonion-ayksisi-diodion-malgara/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://tollfreegr.com/2018-08-04-diodia-pos/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2018-06-08-ayksiseis-eos-150-tois-ekato/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2018-05-02-ti-allazei-se-osous-den-plironoun/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2018-04-15-ti-isxyei-gia-ta-ilektronika-diodia/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2018-03-12-pos-attiki-odos/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2018-03-07-diodia-10-lepta/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2018-02-27-ilektronika-diodia/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2017-12-17-ayksiseis-sta-diodia/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2017-11-08-allages-sta-diodia/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2017-10-09-zoi-konstantopoulou-7-diodia-xoris-na-stamatisei/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2017-09-24-80-euro-Athina-Ioannina/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2017-09-08-nea-ekdosi-odigou/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2017-09-05-fotia-kostos-diadromis-athina-giannena/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2017-08-28-diodia-egnatia-septembrio/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2017-08-03-tsakizoun-tin-tsepi-ta-diodia/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2017-07-29-ektos-chronodiagrammatos-egnatia/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2017-07-17-apalagi-akritikon-nomon/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2017-07-08-nea-diodia-korinthou-patron/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.03</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2017-07-07-nea-diodia-egnatia/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2017-06-23-odigos-lamia-athina/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2017-06-22-kostos-ton-stathmon-diodion-perix-tis-thessalonikis/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://tollfreegr.com/2017-06-19-new-beginning/</loc>
+  <lastmod>2018-09-10T12:09:55+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+
+
 </urlset>
