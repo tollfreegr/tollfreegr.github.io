@@ -44,7 +44,7 @@ avatar: "/img/Nc-eu.svg.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author: 
   name: Powered by Github & Jekyll
-  email: "tollfreegr@gmail.com"
+  email: "info@tollfreegr.com"
   facebook: Tollfreegr-Οδηγός-αποφυγής-διοδίων-668548810001384/  # eg. daattali
   github: tollfreegr    # eg. daattali
   twitter: TollfreegrGr   # eg. daattali
@@ -63,7 +63,7 @@ author:
 footer-links-active:
   rss: true
   facebook: false
-  email: false
+  email: true
   twitter: true
   google-plus: false
   github: true
