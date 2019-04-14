@@ -19,5 +19,6 @@ bigimg: '/img/egnatia.jpg'
 [Πηγή](https://www.voria.gr/article/xenofos-2020-i-parachorisi-tis-egnatias---ti-ginte-me-ta-diodia?fbclid=IwAR3GQY1Td4r9lq1rSEh3TaX0yhFMA5OyYrHQPZWUCurR8IM05fjFGPApC7c)
 
 _Διαφήμιση_
+
 [Ανακαινίσεις σπιτιών σε οικονομικές τιμές](https://ags-engineering.gr/%CE%B1%CE%BD%CE%B1%CE%BA%CE%B1%CE%AF%CE%BD%CE%B9%CF%83%CE%B7-%CF%83%CF%80%CE%B9%CF%84%CE%B9%CE%BF%CF%8D/)
 
